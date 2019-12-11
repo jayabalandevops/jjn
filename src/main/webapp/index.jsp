@@ -3,7 +3,7 @@
 <title>DevOps ARA</title>
 </head>
 <body>
-	<h1>Welcome to ARA Demo App</h1>
+	<h1>Welcome to ARA Demo App - AWS demo</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
